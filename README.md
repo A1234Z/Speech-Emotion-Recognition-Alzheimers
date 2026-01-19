@@ -1,25 +1,31 @@
 # Speech Emotion Recognition for Alzheimer’s Disease
 
-This project focuses on detecting emotional patterns from speech signals
-to support early analysis of Alzheimer’s disease using Machine Learning
-and Deep Learning models.
+## Project Overview
+This project focuses on detecting human emotions from speech signals to support early analysis of Alzheimer’s disease using machine learning and deep learning techniques.
 
 ## Technologies Used
 - Python
 - Machine Learning
-- Deep Neural Networks (DNN)
-- RNDNN
-- KELM
-- Signal Processing
+- Deep Learning
+- Speech Signal Processing
 
-## Project Structure
-- train.py – model training
-- testing.py – testing and validation
-- performance.py – performance evaluation
-- DNN.py – deep neural network implementation
-- RNDNN.py – recurrent neural network model
-- kelm.py – kernel extreme learning machine
-- Final Project Report.pdf – detailed documentation
+## Models Implemented
+- DNN (Deep Neural Network)
+- RNDNN
+- KELM (Kernel Extreme Learning Machine)
+
+## Files Description
+- train.py – Model training
+- testing.py – Testing and evaluation
+- performance.py – Performance metrics
+- DNN.py, RNDNN.py, kelm.py – Model implementations
+
+## Outcome
+The system predicts emotional states from speech data which can help in analyzing cognitive health patterns.
+
+## Author
+Rajula Asritha
+
 
 ## Objective
 To analyze speech emotions and assist in early-stage Alzheimer’s disease detection.
